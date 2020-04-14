@@ -2,6 +2,7 @@
     "name": "vencis/php-apple-signin",
     "type": "library",
     "minimum-stability": "dev",
+    "prefer-stable" : true,
     "description": "A simple library to decode and parse Apple Sign In client tokens.",
     "keywords": ["apple","sign","in","ios","php","jwt","jwk"],
     "license": "MIT",
