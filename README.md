@@ -8,7 +8,7 @@ Installation
 Use composer to manage your dependencies and download php-apple-signin:
 
 ```bash
-composer require griffinledingham/php-apple-signin
+composer require vencis/php-apple-signin
 ```
 
 Example
