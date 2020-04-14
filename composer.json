@@ -6,6 +6,6 @@
         }
     ],
     "require": {
-        "kostanjevec/php-apple-signin": "dev-bugfix"
+        "kostanjevec/php-apple-signin": "dev-master"
     }
 }
